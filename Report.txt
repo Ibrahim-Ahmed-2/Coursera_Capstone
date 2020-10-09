@@ -1,0 +1,6 @@
+People who are interested in this problem are those
+who are going to move from their home and live in
+another place I used Linear Regression to predict
+the average price of houses the result were about 
+80% accurate because I searched for the most relevant 
+independant data to the target data.
