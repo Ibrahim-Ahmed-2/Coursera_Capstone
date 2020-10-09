@@ -1,4 +1,4 @@
 The data I will be using is about the severity of the accident and its description  ,the 
-road conditon , light condition , weather and a lot of other data, which I will clean them 
+road conditon , light condition , weather and a lot of other datasets, which I will clean them 
 and take usefull data from them ,to make a perfect model which helps you to know the severity
-of the accident after you input the data he asks for.
+of the accident after you input the data it asks for.
