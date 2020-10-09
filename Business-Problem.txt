@@ -1,4 +1,4 @@
-The problem which I am going to help people with is accidents that happens during travelling.
-I am going to collect data about car accidents on trvaelling, how they happened , what
-caused them and most of the conditions that caused their happening. this to let people know
+The problem which I am going to help people with is car accidents.I am going to
+collect data about car accidents on trvaelling, how they happened , what caused
+them and most of the conditions that caused their happening. this to let people know
 when an accident may happen and be carefull or postponed the travel if they can, so they stay safe.
